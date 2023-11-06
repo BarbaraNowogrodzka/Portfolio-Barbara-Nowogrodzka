@@ -1,10 +1,10 @@
-### **Portfolio**
+# **Portfolio**
 ## **About me**
 
 My name is Barbara Nowogrodzka. I am an aspiring software tester with a passion for quality assurance and a strong commitment to learning and improving my skills. I have taken significant steps to build my expertise in this field, both through formal training and practical experience. 
 I am a self-driven individual who enjoys the meticulous work of software testing, and I am dedicated to continuously expanding my knowledge and expertise in this field. I am eager to take on new challenges and contribute to the quality and reliability of software products.
 
-# **Tools**
+### **Tools**
 
     Jira,
     Sql,
@@ -12,13 +12,13 @@ I am a self-driven individual who enjoys the meticulous work of software testing
     Chrome DevTools,
     MS Office.
 
-# **Courses**
+### **Courses**
 
     DareIT challenge - qa manual testing
     CherryIT - training project
     SDAcademy - manuel tester
 
-# **My projects**
+### **My projects**
 
 Football Scouts
 
