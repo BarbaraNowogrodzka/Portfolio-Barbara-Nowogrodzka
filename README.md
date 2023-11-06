@@ -44,11 +44,17 @@ I am a self-driven individual who enjoys the meticulous work of software testing
 
 ### **Recomended blogs and podcasts**
 CherryIT
+
 testerzy.pl
+
 testuj.pl
+
 4_testers.pl
+
 Testing Parrot
+
 Porozmawiajmy o IT
+
 LeanQA
 
     
