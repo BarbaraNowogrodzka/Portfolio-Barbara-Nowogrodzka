@@ -6,24 +6,24 @@ I am a self-driven individual who enjoys the meticulous work of software testing
 
 ### **Tools**
 
-    Jira,
-    XAMPP,
-    Chrome DevTools,
-    MS Office
-    Google drive
-    Postman
+Jira,
+XAMPP,
+Chrome DevTools,
+MS Office
+Google drive
+Postman
 
 ### **Technical skils**
-    Software testing
-    Creating test cases
-    Identifying, documenting, and reporting software defects
-    SQL
+Software testing
+Creating test cases
+Identifying, documenting, and reporting software defects
+SQL
     
 ### **Courses**
 
-    DareIT challenge - qa manual testing
-    CherryIT - training project
-    SDAcademy - manuel tester
+DareIT challenge - qa manual testing
+CherryIT - training project
+SDAcademy - manuel tester
 
 ### **My projects**
 
