@@ -26,6 +26,14 @@ Creating test cases
 Identifying, documenting, and reporting software defects
 
 SQL
+
+Team Collaboration
+
+Stress Resilience
+
+Quick Learning
+
+Attention to Detail
     
 ### **Courses**
 
