@@ -22,7 +22,9 @@ SQL
 ### **Courses**
 
 DareIT challenge - qa manual testing
+
 CherryIT - training project
+
 SDAcademy - manuel tester
 
 ### **My projects**
