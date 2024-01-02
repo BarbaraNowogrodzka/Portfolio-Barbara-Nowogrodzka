@@ -33,7 +33,7 @@ DareIT challenge - qa manual testing
 
 CherryIT - training project
 
-SDAcademy - manuel tester
+SDAcademy - manual tester
 
 ### **My projects**
 
