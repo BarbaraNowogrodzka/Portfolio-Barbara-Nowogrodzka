@@ -1,8 +1,7 @@
 # **Barbara Nowogrodzka**
 ## **About me**
 
-My name is Barbara Nowogrodzka. I am an aspiring software tester with a passion for quality assurance and a strong commitment to learning and improving my skills. I have taken significant steps to build my expertise in this field, both through formal training and practical experience. 
-I am a self-driven individual who enjoys the meticulous work of software testing, and I am dedicated to continuously expanding my knowledge and expertise in this field. I am eager to take on new challenges and contribute to the quality and reliability of software products.
+I'm Barbara Nowogrodzka, a budding software tester deeply passionate about ensuring quality assurance. Committed to constant learning and skill enhancement, I've actively pursued formal training and gained valuable hands-on experience in the field. I am a self-motivated professional who finds joy in the precise nature of software testing. I am devoted to perpetually broadening my understanding and proficiency in this domain. Excited about tackling fresh challenges, I am poised to make meaningful contributions to the quality and dependability of software products.
 
 ### **Tools**
 
