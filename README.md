@@ -18,7 +18,7 @@ Google drive
 
 Postman
 
-### **Technical skils**
+### **Technical skills**
 Software testing
 
 Creating test cases
