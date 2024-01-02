@@ -6,17 +6,25 @@ I am a self-driven individual who enjoys the meticulous work of software testing
 
 ### **Tools**
 
-Jira,
-XAMPP,
-Chrome DevTools,
+Jira
+
+XAMPP
+
+Chrome DevTools
+
 MS Office
+
 Google drive
+
 Postman
 
 ### **Technical skils**
 Software testing
+
 Creating test cases
+
 Identifying, documenting, and reporting software defects
+
 SQL
     
 ### **Courses**
